@@ -6,7 +6,7 @@ extends Control
 
 @onready var cursor = $Cursor
 
-@onready var animation_player = $INTRO
+@onready var animation_player = $Intro
 @onready var musica = $Title
 
 

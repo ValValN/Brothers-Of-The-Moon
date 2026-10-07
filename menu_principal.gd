@@ -73,10 +73,17 @@ func _on_salir_mouse_entered() -> void:
 	update_cursor()
 
 func _on_comenzar_pressed() -> void:
+	if not can_input:
+		return
 	can_input = false
+
+	var tree := get_tree()  # Se guarda antes del await, mientras el nodo está en el árbol
 	sfx_click.play()
 	await sfx_click.finished
-	get_tree().change_scene_to_file("res://Escenas/selector.tscn")
+
+	if not is_instance_valid(self):
+		return
+	tree.change_scene_to_file("res://Escenas/selector.tscn")
 
 func _on_salir_pressed() -> void:
 	can_input = false

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cppsdgyfdd7tn"
-path="res://.godot/imported/Enemigos.png-d24f947cecbf0b01a55709fc15723683.ctex"
+uid="uid://d3i3c47mlrb7u"
+path="res://.godot/imported/spritesheet_amungus.png-4aabf1876913d0b87e37fa5638aadd8f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/Enemigos.png"
-dest_files=["res://.godot/imported/Enemigos.png-d24f947cecbf0b01a55709fc15723683.ctex"]
+source_file="res://Assets/Sprites/spritesheet_amungus.png"
+dest_files=["res://.godot/imported/spritesheet_amungus.png-4aabf1876913d0b87e37fa5638aadd8f.ctex"]
 
 [params]
 

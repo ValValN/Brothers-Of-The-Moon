@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cswdbtbynxcfy"
-path="res://.godot/imported/Astronauta.png-f691f74f770743de4aa7c214ff944fb9.ctex"
+path="res://.godot/imported/Astronauta.png-9640e2717d6d8e39ebb1335c409a1418.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Astronauta.png"
-dest_files=["res://.godot/imported/Astronauta.png-f691f74f770743de4aa7c214ff944fb9.ctex"]
+source_file="res://Assets/Sprites/Astronauta.png"
+dest_files=["res://.godot/imported/Astronauta.png-9640e2717d6d8e39ebb1335c409a1418.ctex"]
 
 [params]
 
