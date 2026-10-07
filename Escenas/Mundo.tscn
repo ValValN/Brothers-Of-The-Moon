@@ -1,4 +1,4 @@
-[gd_scene format=4 uid="uid://bypr67gx85in7"]
+[gd_scene format=4 uid="uid://cck7rte41petd"]
 
 [ext_resource type="Script" uid="uid://bogxc2273irfh" path="res://Scripts/mundo.gd" id="1_u2u0v"]
 [ext_resource type="Texture2D" uid="uid://m85rr1d3awin" path="res://Sprites/Fondo6.png" id="2_kjdtq"]
@@ -99,8 +99,8 @@ texture = ExtResource("5_is13a")
 
 [node name="Fondo5" type="Sprite2D" parent="Fondos" unique_id=315973169]
 texture_filter = 1
-position = Vector2(-3.4433308, 250.10089)
-scale = Vector2(0.99999994, 1)
+position = Vector2(-1.9894769, 256.94595)
+scale = Vector2(0.9906743, 0.986829)
 texture = ExtResource("6_mbule")
 
 [node name="TileMapLayer" type="TileMapLayer" parent="." unique_id=1426778861]
