@@ -233,9 +233,6 @@ shape = SubResource("WorldBoundaryShape2D_mbule")
 [node name="GataLien4" parent="Enemigos" unique_id=164729677 groups=["Enemigos"] instance=ExtResource("14_mbule")]
 position = Vector2(2332, -1868)
 
-[node name="AntLien4" parent="Enemigos" unique_id=1667058717 groups=["Enemigos"] instance=ExtResource("15_i8y4t")]
-position = Vector2(2047, -1883)
-
 [node name="AntLien3" parent="Enemigos" unique_id=5419022 groups=["Enemigos"] instance=ExtResource("15_i8y4t")]
 position = Vector2(2553, -1867)
 
@@ -248,20 +245,14 @@ position = Vector2(1828, -54)
 [node name="AntLien" parent="Enemigos" unique_id=501883777 groups=["Enemigos"] instance=ExtResource("15_i8y4t")]
 position = Vector2(429, -830)
 
-[node name="AntLien2" parent="Enemigos" unique_id=1690741543 groups=["Enemigos"] instance=ExtResource("15_i8y4t")]
-position = Vector2(797, -831)
-
 [node name="GataLien3" parent="Enemigos" unique_id=1525336516 groups=["Enemigos"] instance=ExtResource("14_mbule")]
 position = Vector2(408, -1520)
 
 [node name="GataLien5" parent="Enemigos" unique_id=1482012705 groups=["Enemigos"] instance=ExtResource("14_mbule")]
-position = Vector2(610, -2686)
+position = Vector2(771, -2692)
 
 [node name="AntLien5" parent="Enemigos" unique_id=1642331208 groups=["Enemigos"] instance=ExtResource("15_i8y4t")]
-position = Vector2(244, -2688)
-
-[node name="GataLien6" parent="Enemigos" unique_id=999309038 groups=["Enemigos"] instance=ExtResource("14_mbule")]
-position = Vector2(1187, -2658)
+position = Vector2(305, -2682)
 
 [node name="GataLien7" parent="Enemigos" unique_id=143192010 groups=["Enemigos"] instance=ExtResource("14_mbule")]
 position = Vector2(481, -4952)
